@@ -1,7 +1,0 @@
-dir /b /s unattend.xml > C:\<destination_folder>\unattendedxml.txt
-dir /b /s web.config   > C:\<destination_folder>\webconfig.txt
-dir /b /s sysprep.inf  > C:\<destination_folder>\sysprepinf.txt
-dir /b /s sysprep.xml  > C:\<destination_folder>\sysprepxml.txt
-dir /b /s *pass*       > C:\<destination_folder>\pass.txt
-dir /b /s vnc.ini      > C:\<destination_folder>\vncini.txt
-
